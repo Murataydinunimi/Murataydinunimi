@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi! I'm Murat </h1>
 
-<p align="center">**About Me:**</p>
+<p align="center"><strong>About Me:</strong></p>
 
 
 
