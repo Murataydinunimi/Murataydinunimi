@@ -1,7 +1,13 @@
 
-### About Me 🌍
 
-**Hi! I'm Murat** 
+
+
+<h1 align="center">**Hi! I'm Murat** </h1>
+
+<h1 align="center">** About Me 🌍** </h1>
+
+
+
 
 I'm a  Data Engineer with a passion for creating efficient, sustainable, and impactful data solutions. 
 Throughout my career, I’ve built a variety of data engineering projects where I developed expertise in data modelling, ETL processes, Dev-ops and cloud services, always beginning with a positive "can-do" mindset and a commitment to best practices. 
