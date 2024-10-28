@@ -11,8 +11,9 @@
 
 I'm a  Data Engineer with a passion for creating efficient, sustainable, and impactful data solutions. 
 Throughout my career, I’ve built a variety of data engineering projects where I developed expertise in data modelling, ETL processes, Dev-ops and cloud services, always beginning with a positive "can-do" mindset and a commitment to best practices. 
-I believe that a strong foundation in both practical skills and theoretical knowledge is key to effective data engineering.
-My continuous learning journey keeps me up-to-date on topics like distributed computing, big data applications, real-time data streaming, and cloud architecture.
+Both the projects I do a work on a daily basis and the personal ones I do on my spare teaches me continuously and keeps me up-to-date on topics like distributed computing, big data applications, real-time data streaming, and cloud architecture.
+
+
 
 
 ### Connect with Me 🤝
