@@ -43,9 +43,10 @@ My continuous learning journey keeps me up-to-date on topics like distributed co
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/BigQuery-EF733B?logo=googlebigquery&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/BigQuery-EF733B?logo=googlebigquery&logoColor=white" height="40">
+ 
 
 </p>
 
