@@ -15,7 +15,6 @@ I believe that a strong foundation in both practical skills and theoretical know
 My continuous learning journey keeps me up-to-date on topics like distributed computing, big data applications, real-time data streaming, and cloud architecture.
 
 ### Tech Stack 🚀
-### Tech Stack 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="40">
