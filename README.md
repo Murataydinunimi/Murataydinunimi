@@ -17,7 +17,7 @@ My continuous learning journey keeps me up-to-date on topics like distributed co
 ### Tech Stack 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="40"> <!-- Changed to MySQL logo -->
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white" height="40">
