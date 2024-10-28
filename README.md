@@ -15,11 +15,22 @@ I believe that a strong foundation in both practical skills and theoretical know
 My continuous learning journey keeps me up-to-date on topics like distributed computing, big data applications, real-time data streaming, and cloud architecture.
 
 ### Tech Stack 🚀
+### Tech Stack 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="40">
-  <!-- Add more badges as needed -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40">
 </p>
 
 ### Welcome to My GitHub! 🎉
