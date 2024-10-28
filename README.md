@@ -14,6 +14,18 @@ Throughout my career, I’ve built a variety of data engineering projects where 
 I believe that a strong foundation in both practical skills and theoretical knowledge is key to effective data engineering.
 My continuous learning journey keeps me up-to-date on topics like distributed computing, big data applications, real-time data streaming, and cloud architecture.
 
+
+### Connect with Me 🤝
+<p align="center">
+  <a href="https://medium.com/@murat_aydin">
+    <img src="https://img.shields.io/badge/Medium-00AB6C?logo=medium&logoColor=white" height="40">
+  </a>
+  <a href="mailto:barlaskiziltan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="40">
+  </a>
+</p>
+
+
 ### Tech Stack 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40">
